@@ -11,8 +11,8 @@ import (
 	"time"
 
 	gm "github.com/buger/goterm"
-	"github.com/tonobo/mtr/pkg/hop"
-	"github.com/tonobo/mtr/pkg/icmp"
+	"github.com/dbourkey/mtr/pkg/hop"
+	"github.com/dbourkey/mtr/pkg/icmp"
 )
 
 var ErrTimeout = fmt.Errorf("timed out before trace could complete")

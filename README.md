@@ -2,6 +2,10 @@
 
 A MTR implementation written in golang, completely without shell-execs.
 
+This is forked from https://github.com/grafana/mtr which was forked from https://github.com/tonobo/mtr
+
+# Original Docs (Outdated) - Relevant to https://github.com/tonobo/mtr
+
 Just install with the following command:
 ```
 go get -u github.com/tonobo/mtr
